@@ -1,5 +1,7 @@
 
-#  JavaScript Preparation @2024-25
+JavaScript Preparation @2024-25
+======
+
 ###  Day 1:
 
 ####  Introduction:
@@ -12,6 +14,19 @@
 > that enables dynamic interactivity on Websites when applied to an HTML document. JavaScript has no Connectivity with Java Programming Launguage.
 
 ####  Name History:
->  The Name was Suggested and Provided in the  Times when Java was gaining Popularity in the Market . In Addition to Web Browsers, database such  as Couch DB and Mongo DB uses Javascript as their Scripting and query Language. 
+>  The Name was Suggested and Provided in the  Times when Java was gaining Popularity in the Market . In Addition to Web Browsers, database such  as Couch DB and Mongo DB uses Javascript as their Scripting and query Language.
+
+####  Features of JavaScript:
+>  -  All Popular Web Browsers Support JavaScriptas They Provide built in Execution Environments.
+>  -  JavaScript Follows a *C Programming Language*,Thus it is a **Structured Programming Language**.
+>  -  JavaScript is a Object-Oriented Language Whereas it is also uses a Prototypes Rather than using classes for Inheritance.
+>  -  JavaScript is a *Light-weight* and *Interpreted* Language.
+>  -  JavaScript is a Case-Sensitive Language.
+>  -  It Provides Good Control to the Users Over the Web Browsers.
+
+####  History of JavaScript:
+---
+1992  | First Web Browser
+
 
 
